@@ -10,7 +10,7 @@
 - 🔧 Full-stack developer with hands-on experience in Laravel, React, REST APIs, and modern JS
 - 🧠 Enjoy solving algorithmic problems on **LeetCode** & **HackerRank** using **C++**
 - 💼 Currently building and maintaining production-ready SaaS applications at WebSolutionUS
-- 🌱 Learning **DevOps**: Docker, CI/CD, Nginx, and GitHub Actions
+- 🌱 Learning **DevOps**: Shell Scripting, AWS, Docker,
 
 ---
 
@@ -43,27 +43,11 @@
 
 ### 📈 Contribution Activity
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rizviahmed&theme=github_dark" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=rizviahmed&theme=github_dark&utcOffset=+6" />
-</p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=progrizvi&show_icons=true&locale=en&layout=compact&theme=github_dark&hide_border=true" alt="progrizvi" /></p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rizviahmed&theme=dark" />
-</p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=progrizvi&show_icons=true&locale=en&theme=github_dark&hide_border=true" alt="progrizvi" /></p>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=rizviahmed&theme=github-compact&area=true" />
-</p>
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rizviahmed&show_icons=true&theme=github_dark&hide_border=true" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rizviahmed&layout=compact&theme=github_dark&hide_border=true" height="180" />
-</p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=progrizvi&" alt="progrizvi" /></p>
 
 ---
 
@@ -101,12 +85,16 @@
   <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/-Laravel-FF2D20?style=flat&logo=laravel&logoColor=white" />
   <img src="https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Material%20UI-0081CB?style=flat&logo=mui&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Redux-764ABC?style=flat&logo=redux&logoColor=white" />
   <img src="https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white" />
   <img src="https://img.shields.io/badge/-Express.js-000000?style=flat&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/-jQuery-0769AD?style=flat&logo=jquery&logoColor=white" />
+  <img src="https://img.shields.io/badge/-AJAX-00599C?style=flat&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Material%20UI-0081CB?style=flat&logo=mui&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Tailwind-38B2AC?style=flat&logo=tailwind-css&logoColor=white" />
   <img src="https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black" />
 </p>
