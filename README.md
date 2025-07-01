@@ -1,17 +1,16 @@
-## Hi there 👋
 <h1 align="center">👋 Hi, I'm Rizvi Ahmed</h1>
 <p align="center">
-  🚀 Full-Stack Developer | Laravel Enthusiast | CodeCanyon Author
+  💻 Full-Stack Web Developer at <strong>WebSolutionUS</strong> | Laravel & React Specialist
 </p>
 
 ---
 
 ### 👨‍💻 About Me
 
-- 🔧 Passionate about building scalable web apps with Laravel & React
-- 📦 CodeCanyon author with published Laravel scripts
-- 🌱 Currently diving deep into **DevOps** tools & practices
-- ⚡ I love automating workflows and simplifying user experiences
+- 🔧 Full-stack developer with hands-on experience in Laravel, React, REST APIs, and modern JS
+- 🧠 Enjoy solving algorithmic problems on **LeetCode** & **HackerRank** using **C++**
+- 💼 Currently building and maintaining production-ready SaaS applications at WebSolutionUS
+- 🌱 Learning **DevOps**: Docker, CI/CD, Nginx, and GitHub Actions
 
 ---
 
@@ -27,17 +26,12 @@
 #### 🎯 Familiar With
 - Stripe.js, Tailwind CSS, React Native, Python, C++
 
-#### 🔧 Tools & Platforms
-- Git, GitHub, NPM, VS Code, Firebase, Chrome DevTools, Linux
+#### 🧰 Tools
+- Git, GitHub, NPM, VS Code, Chrome DevTools, Firebase, Linux
 
 ---
 
-### 🚧 Currently Learning
-- **DevOps**: Docker, GitHub Actions, CI/CD pipelines, Server provisioning
-
----
-
-### 🚀 My Products on CodeCanyon
+### 🧪 Projects I’ve Built at WebSolutionUS
 
 - 🏋️‍♂️ [Fitnes - Gym Management System (Laravel)](https://codecanyon.net/item/fitnes-gym-management-system-laravel-script/55390433)  
   <sub>All-in-one gym software to manage members, plans, billing & attendance.</sub>
@@ -56,16 +50,24 @@
 
 ---
 
+### 🧠 Problem Solving
+
+- 🏆 Solved algorithmic problems on:
+  - [LeetCode](https://leetcode.com/) — using **C++**
+  - [HackerRank](https://www.hackerrank.com/) — focusing on **data structures & algorithms**
+
+---
+
 ### 🔗 Connect with Me
 
 <p align="left">
-  <a href="https://linkedin.com/in/yourname" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
-  </a>
-  <a href="mailto:your.email@example.com">
+  <a href="mailto:rizvi1316@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://codecanyon.net/user/yourusername" target="_blank">
+  <a href="https://www.linkedin.com/in/yourname" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
+  </a>
+  <a href="https://codecanyon.net/user/websolutionus" target="_blank">
     <img src="https://img.shields.io/badge/CodeCanyon-282828?style=for-the-badge&logo=envato" />
   </a>
 </p>
