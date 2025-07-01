@@ -53,8 +53,8 @@
 ### 🧠 Problem Solving
 
 - 🏆 Solved algorithmic problems on:
-  - [LeetCode](https://leetcode.com/) — using **C++**
-  - [HackerRank](https://www.hackerrank.com/) — focusing on **data structures & algorithms**
+  - [LeetCode]([https://leetcode.com/](https://leetcode.com/u/rizvi1316/)) — using **C++**
+  - [HackerRank]([https://www.hackerrank.com/](https://www.hackerrank.com/profile/rizvi1316)) — focusing on **data structures & algorithms**
 
 ---
 
@@ -64,13 +64,14 @@
   <a href="mailto:rizvi1316@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/yourname" target="_blank">
+  <a href="[https://www.linkedin.com/in/yourname](https://www.linkedin.com/in/rizvi1316/)" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
   </a>
-  <a href="https://codecanyon.net/user/websolutionus" target="_blank">
-    <img src="https://img.shields.io/badge/CodeCanyon-282828?style=for-the-badge&logo=envato" />
-  </a>
 </p>
+
+---
+### 📄 Resume
+[Download My Resume]([https://github.com/rizviahmed/rizviahmed/raw/main/Rizvi-Ahmed-Resume.pdf](https://drive.google.com/file/d/1ZRo6p5XiBAjjrtD6iMcNxtbNCF-1ueWx/view))
 
 ---
 
