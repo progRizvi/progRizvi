@@ -1,6 +1,6 @@
 <h1 align="center">👋 Hi, I'm Rizvi Ahmed</h1>
 <p align="center">
-  💻 Full-Stack Web Developer at <strong>WebSolutionUS</strong> | Laravel & React Specialist
+  💻 Laravel Web Developer at <strong>WebSolutionUS</strong> | Laravel & React Specialist
 </p>
 
 ---
