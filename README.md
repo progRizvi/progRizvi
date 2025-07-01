@@ -41,6 +41,23 @@
 
 ---
 
+### 📈 Contribution Activity
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rizviahmed&theme=github_dark" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=rizviahmed&theme=github_dark&utcOffset=+6" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rizviahmed&theme=dark" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=rizviahmed&theme=github-compact&area=true" />
+</p>
+
+---
+
 ### 📊 GitHub Stats
 
 <p align="center">
@@ -53,8 +70,8 @@
 ### 🧠 Problem Solving
 
 - 🏆 Solved algorithmic problems on:
-  - [LeetCode]([https://leetcode.com/](https://leetcode.com/u/rizvi1316/)) — using **C++**
-  - [HackerRank]([https://www.hackerrank.com/](https://www.hackerrank.com/profile/rizvi1316)) — focusing on **data structures & algorithms**
+  - [LeetCode](https://leetcode.com/rizvi1316/) — using **C++**
+  - [HackerRank](https://www.hackerrank.com/rizvi1316) — focusing on **data structures & algorithms**
 
 ---
 
@@ -64,14 +81,16 @@
   <a href="mailto:rizvi1316@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="[https://www.linkedin.com/in/yourname](https://www.linkedin.com/in/rizvi1316/)" target="_blank">
+  <a href="https://www.linkedin.com/in/rizvi1316/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
   </a>
 </p>
 
 ---
+
 ### 📄 Resume
-[Download My Resume]([https://github.com/rizviahmed/rizviahmed/raw/main/Rizvi-Ahmed-Resume.pdf](https://drive.google.com/file/d/1ZRo6p5XiBAjjrtD6iMcNxtbNCF-1ueWx/view))
+
+[Download My Resume](https://drive.google.com/uc?export=download&id=1ZRo6p5XiBAjjrtD6iMcNxtbNCF-1ueWx)
 
 ---
 
