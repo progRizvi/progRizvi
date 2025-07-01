@@ -6,25 +6,29 @@
 ---
 
 ### 👨‍💻 About Me
+I'm **Rizvi Ahmed**, a Full-Stack Web Developer from **Dhaka, Bangladesh**, with strong experience in **Laravel**, **React.js**, and modern JavaScript technologies. I currently work at **WebSolutionUS**, building production-ready SaaS applications.
 
-- 🔧 Full-stack developer with hands-on experience in Laravel, React, REST APIs, and modern JS
-- 🧠 Enjoy solving algorithmic problems on **LeetCode** & **HackerRank** using **C++**
-- 💼 Currently building and maintaining production-ready SaaS applications at WebSolutionUS
-- 🌱 Learning **DevOps**: Shell Scripting, AWS, Docker,
+Previously at **Kodeeo Limited**, I built end-to-end systems like e-commerce platforms, POS apps, courier tracking tools, and manpower service portals — all focused on usability, automation, and scalability.
+
+In addition to my professional work, I contribute to the developer community through open-source projects, problem solving on **LeetCode** and **HackerRank**, and publishing CodeCanyon products like:
+- [Fitnes – Gym Management System](https://codecanyon.net/item/fitnes-gym-management-system-laravel-script/55390433)
+- [bKash Payment Addon for Fitnes](https://codecanyon.net/item/bkash-addon-for-fitnes/56205073)
+
+I'm always exploring new technologies and building tools that automate workflows, improve performance, and deliver clean user experiences.
 
 ---
 
 ### 🛠️ Tech Stack
 
 #### 💻 Comfortable With
-- **Languages:** PHP, JavaScript (ES6), HTML5, CSS3
+- **Languages:** PHP, JavaScript (ES6), HTML5, CSS3, Python, C++
 - **Frameworks/Libraries:** Laravel, React.js, Redux, Node.js, Express.js, JQuery, AJAX
 - **UI Libraries:** Bootstrap 5, Material UI
 - **Databases:** MySQL, MongoDB
 - **Others:** REST API, MVC Architecture
 
 #### 🎯 Familiar With
-- Stripe.js, Tailwind CSS, React Native, Python, C++
+- Nextjs, React Native
 
 #### 🧰 Tools
 - Git, GitHub, NPM, VS Code, Chrome DevTools, Firebase, Linux
@@ -47,7 +51,6 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=progrizvi&show_icons=true&locale=en&theme=github_dark&hide_border=true" alt="progrizvi" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=progrizvi&" alt="progrizvi" /></p>
 
 ---
 
