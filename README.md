@@ -20,15 +20,24 @@ Based in Dhaka, Bangladesh. Working remotely with a US-based team.
 
 ### What I'm shipping at Growcycle
 
-A multi-tenant CRM for US service contractors and the AI-powered features around it.
+Owning features end-to-end across four production products at a US-based home-services SaaS company.
 
-- **AI Phone Receptionist** — 24/7 inbound call handling for service businesses (Telnyx + OpenAI + MongoDB). Routes calls, holds natural conversations using a per-merchant training pipeline (Q&A pairs, document upload, seasonal greetings, keyword-based call transfer), books appointments, and links call recordings to CRM leads via `call_id` matching.
+**AI products I shipped:**
 
-- **AI Lead Engagement** — SMS/email assistant that auto-responds to inbound inquiries, qualifies leads, and books appointments on Google or Outlook calendar via OAuth. Built the key-authenticated public API (rate limit + IP allowlist + permission scopes + request/response logging) used by the external LLM service.
+- **Lucy AI** — 24/7 AI phone receptionist for service contractors. Built on Telnyx (telephony) + OpenAI/Retell (LLM voice) + MongoDB (transcripts) + Laravel (config, training, dashboard). Designed the per-merchant training pipeline (Q&A pairs, document upload, seasonal greetings, keyword-based call transfer) and integrated call recordings into the CRM lead timeline via `call_id` matching.
 
-- **Multi-Tenant Payments Platform** — NMI V4 end-to-end: per-tenant merchant onboarding (Plaid), transactions, refunds/voids, disputes (chargebacks + evidence flow), payouts, recurring billing (NMI Customer Vault), tokenized payment links. Designed a refund-fee-loss accounting system with tiered ACH-debit recovery for negative balances.
+- **Kirk AI** — SMS + email lead-engagement assistant. Auto-responds to new leads, qualifies them, and books appointments on Google or Outlook calendar (OAuth). Built the key-authenticated public API (rate limit, IP allowlist, permission scopes, request/response logging) that the external LLM service uses.
 
-- **Inter-Service Security** — custom API-key middleware that secures bidirectional traffic between the CRM and external AI services in a microservice architecture.
+**Payments platform:**
+
+- **NMI V4 end-to-end** — per-tenant merchant onboarding (Plaid), transactions, refunds/voids, disputes (chargebacks + evidence flow), payouts, recurring billing (NMI Customer Vault, weekly through yearly cycles), tokenized payment links (rate-limited public form, no CSRF), webhook ingestion with signature verification.
+- **Refund-fee-loss accounting + tiered ACH-debit recovery** for negative balances (silent payout deduction → warnings → ACH recovery on Growcycle's master NMI key with NACHA authorization → refund suspension).
+
+**LeadPulse** (multi-tenant lead-orchestration backend):
+
+- Implemented the lead-source CRUD APIs, webhook ingestion + verification, custom field mapping, and integrations for Typeform, Zapier, and ad-platform form providers. Modeled the multi-tenant lead-source schema and built an in-app log viewer for ops to inspect webhook runs.
+
+**AI-assisted workflow:** daily user of Claude Code and Cursor for feature scoping, code generation, refactoring, and code review.
 
 ---
 
